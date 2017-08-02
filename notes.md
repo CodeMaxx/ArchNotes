@@ -18,3 +18,15 @@ We need to use [`mfhi` and `mflo` instructions](http://chortle.ccsu.edu/assembly
 - [How to load 32 bit values in a register?](https://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Mips/load32.html)
 
 - [Pseudo-instructions](https://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Mips/pseudo.html)
+
+## Preparing for Tut 4
+
+- [add v/s addu](https://stackoverflow.com/questions/16634110/difference-between-add-and-addu)
+
+- [Advantage of 2's complement over 1's complement](https://stackoverflow.com/questions/11054213/advantage-of-2s-complement-over-1s-complement)
+
+- [Sign and Zero Extension](https://www.wikiwand.com/en/Sign_extension)
+
+- [FAQ - Load and Store instruction](https://stackoverflow.com/questions/7226147/clarifications-on-signed-unsigned-load-and-store-instructions-mips)
+
+
