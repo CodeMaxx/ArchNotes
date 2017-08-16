@@ -29,4 +29,6 @@ We need to use [`mfhi` and `mflo` instructions](http://chortle.ccsu.edu/assembly
 
 - [FAQ - Load and Store instruction](https://stackoverflow.com/questions/7226147/clarifications-on-signed-unsigned-load-and-store-instructions-mips)
 
+## Lab 4
 
+- [How to write a procedure in MIPS](http://www.poslarchive.com/math/misc/mips-asm.html)
