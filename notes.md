@@ -32,3 +32,8 @@ We need to use [`mfhi` and `mflo` instructions](http://chortle.ccsu.edu/assembly
 ## Lab 4
 
 - [How to write a procedure in MIPS](http://www.poslarchive.com/math/misc/mips-asm.html)
+
+## Lab 5
+
+- [Exceptions in MIPS](http://www.cs.iit.edu/~virgil/cs470/Labs/Lab7.pdf)
+- SPIM stores and displays data in the format(little or big endian) of the host machine
